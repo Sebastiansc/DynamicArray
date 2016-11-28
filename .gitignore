@@ -1,0 +1,5 @@
+.DS_Store
+	.byebug_history
+spec/
+.rspec
+Gemfile.lock
